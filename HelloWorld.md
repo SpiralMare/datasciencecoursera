@@ -1,5 +1,3 @@
-## This is a mar down file
+## This is a markdown file
 
 HulloWurld
-*bullet Hullo
-*bullet Wurld
